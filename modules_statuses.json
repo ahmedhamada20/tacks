@@ -1,0 +1,9 @@
+{
+    "Post": true,
+    "Migration": true,
+    "Posts": true,
+    "List": true,
+    "Blog": true,
+    "PostMigrate": true,
+    "Comment": true
+}
