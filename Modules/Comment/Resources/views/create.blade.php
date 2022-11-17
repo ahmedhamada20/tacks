@@ -17,7 +17,7 @@
                     <div class="row">
                         <div class="col">
                             <label>Comment</label>
-                            <input type="text" name="comment" required class="form-control">
+                            <input type="text" name="comment" value="{{ old('comment') }}" required class="form-control">
                         </div>
                     </div>
 

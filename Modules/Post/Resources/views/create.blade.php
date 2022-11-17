@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col">
                         <label>title</label>
-                        <input type="text" name="name"  required class="form-control">
+                        <input type="text" name="name" value="{{ old('name') }}" required class="form-control">
                     </div>
                 </div>
 
